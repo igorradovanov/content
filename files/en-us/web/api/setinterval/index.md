@@ -299,7 +299,7 @@ Vivamus blandit massa ut metus mattis in fringilla lectus imperdiet. Proin ac an
 </html>
 ```
 
-[View this demo in action](/files/3997/typewriter.html). See also: [`clearInterval()`](/en-US/docs/Web/API/clearInterval).
+[View this demo in action](/typewriter.html). See also: [`clearInterval()`](/en-US/docs/Web/API/clearInterval).
 
 ## Callback arguments
 
@@ -315,7 +315,7 @@ your script.
 |*|  IE-specific polyfill that enables the passage of arbitrary arguments to the
 |*|  callback functions of javascript timers (HTML5 standard syntax).
 |*|
-|*|  https://developer.mozilla.org/en-US/docs/Web/API/window.setInterval
+|*|  https://developer.mozilla.org/en-US/docs/Web/API/window.setInterval`
 |*|
 |*|  Syntax:
 |*|  var timeoutID = window.setTimeout(func, delay[, arg1, arg2, ...]);
